@@ -76,4 +76,4 @@ The Power BI dashboard is organised into three pages:
 
 ---
 ### 📁 Files in This Repository  
-- **[Adventure Works Sales Dashboard_PDF](Adventure_Works_Sales_Dashboard_PDF.pdf)**
+- **[Adventure Works Sales Dashboard PDF](Adventure_Works_Sales_Dashboard_PDF.pdf)**
