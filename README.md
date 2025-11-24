@@ -8,7 +8,7 @@ This Power BI project was completed as part of a Skillable lab exercise to analy
 `POWER BI DESKTOP` &nbsp; `POWER BI ONLINE` &nbsp; `POWER QUERY` `DASHBOARD DESIGN` &nbsp; `DASHBOARD INTERACTIVITY` &nbsp; `FILTERS` &nbsp; `DRILL-DOWN / HIERARCHIES` &nbsp; `SLICERS`
 
 
-🔗[View dashboard on Power BI online](https://app.powerbi.com/links/F5q-vhfNSK?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+🔗 [View dashboard on Power BI online](https://app.powerbi.com/links/F5q-vhfNSK?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
 ---
 ### 🎨 Dashboard Creation
