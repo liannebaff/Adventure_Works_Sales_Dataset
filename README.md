@@ -63,7 +63,7 @@ The Power BI dashboard is organised into three pages:
 
 <img width="922" height="686" alt="image" src="https://github.com/user-attachments/assets/d878bf55-5256-4f3f-a0d3-5f10329bb1eb" />  <br>
 
-🖱️ [Open Adventure_Works_Sales_Dashboard_PDF](Adventure_Works_Sales_Dashboard_PDF.pdf) | 🔗
+🖱️ [Open Adventure Works Sales Dashboard_PDF](Adventure_Works_Sales_Dashboard_PDF.pdf) | 🔗
 [View dashboard on Power BI online](https://app.powerbi.com/links/F5q-vhfNSK?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
 ---
@@ -76,4 +76,4 @@ The Power BI dashboard is organised into three pages:
 
 ---
 ### 📁 Files in This Repository  
-- **[Adventure_Works_Sales_Dashboard_PDF](Adventure_Works_Sales_Dashboard_PDF.pdf)**
+- **[Adventure Works Sales Dashboard_PDF](Adventure_Works_Sales_Dashboard_PDF.pdf)**
